@@ -1,0 +1,6 @@
+filename.txt
+*.log
+*.dll
+myfolder/
+build/
+node_modules/
